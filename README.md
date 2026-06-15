@@ -31,7 +31,7 @@
 ### 1. 克隆项目
 ```bash
 git clone https://github.com/elenacharlotte1345-lab/AI_CRM.git
-cd AI_project
+cd AI_CRM
 ```
 
 ### 2. 创建虚拟环境（推荐）
