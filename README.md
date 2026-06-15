@@ -30,7 +30,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/elenacharlotte1345-lab/AI_CRM.git
 cd AI_project
 ```
 
